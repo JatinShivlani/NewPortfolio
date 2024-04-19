@@ -82,7 +82,7 @@ const FloatingIcons = () => {
         </motion.span>
       </a>
       <a
-        href="https://github.com/JatinShivlani"
+        href="https://www.linkedin.com/in/jatin-shivlani/"
         target="_blank"
         className="social"
       >
